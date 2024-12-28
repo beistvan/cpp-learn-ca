@@ -5,5 +5,5 @@ private:
 public:
   Car(int initialSpeed);
   int getSpeed();
-  void setSpeed(int carSpeed);
+  int setSpeed(int carSpeed);
 };
