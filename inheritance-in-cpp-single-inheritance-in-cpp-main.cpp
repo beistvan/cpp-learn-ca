@@ -14,3 +14,8 @@ int main() {
 
   return 0;
 }
+/* // Output:
+The car is a Nissan
+Altima goes Beep Beep!
+Altima is moving at 120 km/h.
+*/
