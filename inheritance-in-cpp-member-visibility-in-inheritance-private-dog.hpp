@@ -5,4 +5,8 @@ public:
   void setName(string dogName);
   void setSpecies(string dogSpecies);
   void setAge(int dogAge);
+  string getName();
+  string getSpecies();
+  int getAge();
+
 };
