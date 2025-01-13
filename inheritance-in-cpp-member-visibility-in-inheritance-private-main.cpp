@@ -12,5 +12,9 @@ int main() {
   myDoggie.setName("Milton");
   myDoggie.setAge(4);
 
+  cout << myDoggie.getAge() << endl;
+  cout << myDoggie.getSpecies() << endl;
+  cout << myDoggie.getName() << endl;
+
   return 0;
 }
